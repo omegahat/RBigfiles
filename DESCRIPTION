@@ -1,0 +1,11 @@
+Package: RBigfiles
+Version: 0.1-0
+Title: Find big files
+Description: This is an R implementation of a facility for 
+  finding big files within a hierarchy of a file system.
+  This  is used to help clean up disk space.
+Author: Duncan Temple Lang
+Imports: methods
+Maintainer: Duncan Temple Lang <duncan@r-project.org>
+License: GPL
+
